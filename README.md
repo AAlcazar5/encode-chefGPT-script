@@ -12,7 +12,7 @@ This is a student project from Encode academy. We are utilizing the ChatGPT API 
 2. Create an API Key at [https://platform.openai.com/api-keys](https://example.com)
 3. Clone the repo
    ```sh
-   git clone ()
+   git clone https://github.com/AAlcazar5/encode-chefGPT-script
    ```
 4. Install Pip packages
    ```sh
