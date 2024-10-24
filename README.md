@@ -16,8 +16,8 @@ This is a student project from Encode academy. We are utilizing the ChatGPT API 
    ```
 4. Install Pip packages
    ```sh
-   Pip install openai
-   Pip install python-dotenv
+   pip install openai
+   pip install python-dotenv
    ```
 5. Create a .env and add your API
    ```sh
