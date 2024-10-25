@@ -1,7 +1,7 @@
 ### Make Your Own Chef ###
 
 ## About The Project
-This is a student project from Encode academy. We are utilizing the ChatGPT API to create a chat app of different chefs with unique personalities. These chefs can then answer questions relating to providing recipes, critiquing recipes and providing constructive criticism, or offering a dish suggestion for a list of ingredients. 
+This is a student project from Encode academy. We are utilizing the ChatGPT API to create a chat app of different chefs with unique personalities. These chefs can then answer questions relating to providing recipes, critique recipes and provide constructive criticism, or offer a dish suggestion for a list of ingredients. 
 
 ### Built With
 - Python
